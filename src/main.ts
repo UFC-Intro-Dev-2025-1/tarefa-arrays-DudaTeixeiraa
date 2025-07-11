@@ -53,6 +53,5 @@ mostrarArray(dobrados);
 const soma = numeros.reduce((acum, valor) => acum + valor, 0);
 console.log(`Soma dos elementos do array: ${soma}`);
 
-
 // para rodar o código, use o comando:
 // npm run build
